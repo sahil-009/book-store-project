@@ -20,7 +20,7 @@ A simple Laravel backend API for managing Authors and their Books.
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone 
 cd book-store
 ```
 
@@ -258,3 +258,4 @@ curl -X DELETE http://localhost:8000/api/authors/1
 - When an author is deleted, all their books are automatically deleted (cascade delete)
 - All API responses are in JSON format
 - The application uses SQLite database for easy setup
+# book-store-project
